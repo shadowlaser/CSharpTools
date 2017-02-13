@@ -46,10 +46,7 @@ Temporary Items
 #vs solution files
 *.suo
 *.user
-<<<<<<< HEAD
 bin/
 obj/
-=======
-bin
-obj
->>>>>>> 538f6127c2c1e50606b1f93895b3c1dec37a5ef5
+packages/
+
